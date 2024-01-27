@@ -1,0 +1,6 @@
+﻿  pract2.cpp
+C:\Users\307-12\Desktop\shvets\pract2\pract2.cpp(5,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\307-12\Desktop\shvets\pract2\pract2.cpp(36,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\307-12\Desktop\shvets\pract2\pract2.cpp(101,9): warning C4101: year: неиспользованная локальная переменная
+C:\Users\307-12\Desktop\shvets\pract2\pract2.cpp(162,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pract2.vcxproj -> C:\Users\307-12\Desktop\shvets\pract2\x64\Debug\pract2.exe
